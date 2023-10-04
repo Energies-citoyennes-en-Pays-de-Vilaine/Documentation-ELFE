@@ -11,6 +11,6 @@ L'objectif de cette documentation est de décrire l'infrastructure dans son ense
 Pour en savoir plus sur le projet ELFE - *Expérimentons Localement la Flexibilité Energétique*, consulter : https://www.projet-elfe.fr
 
 ## Auteurs et Licence
-* Ce code a été écrit par **Elias Martin - Astrolabe CAE**. 
+* Cette documentation a été écrite par **Elias Martin - Astrolabe CAE**, co-coordinateur du projet ELFE 
 * Il appartient à l'association **Energies Citoyennes en Pays de Vilaine** - contact@enr-citoyennes.fr
 * Dans un but d'essaimage et de construction coopérative, il est partagé sous licence EUPL v1.2
