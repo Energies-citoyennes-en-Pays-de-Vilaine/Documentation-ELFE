@@ -1,7 +1,7 @@
 # Projet ELFE - Documentation Générale
 
 ## Description
-Ce dépôt contient la documentation générale de l'infrastructure informatique déployée dans le projet ELFE.
+Ce dépôt contient la documentation générale de l'infrastructure informatique déployée dans le projet de flexibilité énergétique citoyenne **ELFE**.
 
 ![](architecture_informatique_elfe.jpg)
 
@@ -9,7 +9,7 @@ Cette infrastructure, entièrement sous licence libre, est composée de logiciel
 L'objectif de cette documentation est de décrire l'infrastructure dans son ensemble, en précisant les interconnexions et les configurations spécifiques de chaque logiciel.
 
 ### BDD Coordo
-Le point-clé de cette architecture est la base de données "coordo", qui reprend l'ensemble des équipements pilotés chze les participants et les équipements domotiques associés. Le schéma de cette BDD est mis à disposition au format graphML et SQL.
+Le point-clé de cette architecture est la base de données "coordination", qui contient l'ensemble des équipements pilotés chez les participants et les équipements domotiques associés. Le schéma de cette BDD est mis à disposition au format graphML et SQL.
 
 ![](bdd_coordination_schema.png)
 
